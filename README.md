@@ -12,7 +12,7 @@ This project focuses on **automated answer evaluation** for descriptive answers,
 ### Key Capabilities
 
 * 📄 Accepts **input context in English**
-* ❓ Automatically **generates 3 questions** from the context
+* ❓ Automatically **generates multiple questions** from the context
 * ✍️ Users answer in **English or Hindi**
 * 🌐 Uses **cross-lingual embeddings** to compare answers
 * 📊 Scores and **ranks users** based on semantic similarity
