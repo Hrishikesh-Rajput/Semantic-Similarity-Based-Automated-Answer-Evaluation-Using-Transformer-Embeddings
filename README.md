@@ -1,6 +1,7 @@
 # Multilingual Answer Evaluation System
 
 An AI-powered **ML/DL project** that automatically evaluates user answers against reference answers **across languages (English & Hindi)** using semantic similarity. The system generates questions from a given context, accepts user responses, compares them with ground-truth answers, and ranks users based on answer similarity.
+<img width="584" height="150" alt="Screenshot 2026-02-16 001705" src="https://github.com/user-attachments/assets/5755011e-665c-43af-8d8a-b34ec76a8133" />
 
 ---
 
@@ -135,6 +136,13 @@ npm run dev
 5. Students receive **scores & rank**
 
 ---
+## Architectural Diagrams
+
+<img width="1762" height="797" alt="Architecture" src="https://github.com/user-attachments/assets/a7f8fd73-e18c-451c-befe-e79850fdd803" />
+<img width="1724" height="722" alt="DFD" src="https://github.com/user-attachments/assets/128aa76a-7347-410a-bda4-0dbb311e65a9" />
+<img width="1225" height="665" alt="Screenshot 2026-01-30 133922" src="https://github.com/user-attachments/assets/c9d11325-d387-4c6c-8557-215e0d49d8a1" />
+<img width="1503" height="814" alt="Screenshot 2026-02-01 194503" src="https://github.com/user-attachments/assets/22d4a857-4491-46c9-82fb-6ea453fc92ad" />
+<img width="1585" height="517" alt="Screenshot 2026-02-01 215822" src="https://github.com/user-attachments/assets/605d8051-35a7-42f2-9d6d-f8c66d2e0436" />
 
 ## 📈 Evaluation Method
 
@@ -157,7 +165,9 @@ npm run dev
 
 ## 👥 Contributors
 
-* **Projects byGSH** (Owner & Developer)
+* ** Hrishikesh Rajput ** (Owner & System Designer, OCR pipline)
+* ** Guneet Chawla  ** 
+* ** Saikat Biswas ** 
 
 ---
 
